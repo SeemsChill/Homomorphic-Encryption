@@ -1,5 +1,21 @@
-function something() {
-	console.log("Something!");
-}
+/*
+	Created by: Ookami.
+	Github: https://github.com/TheForwarding/Homomorphic-Encryption.git
+	Version: 1.0.0
+*/
 
-module.exports.something = something;
+
+
+//	Homormophic class.
+module.exports = class Homomorphic {
+	//	Constructor.
+	constructor() {};
+
+	//==Method's field.==//
+	//					 //
+	//===================//
+
+	Encryption() {
+		
+	}
+}

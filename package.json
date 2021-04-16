@@ -1,0 +1,19 @@
+{
+  "name": "homomorphic-encryption",
+  "version": "1.0.1",
+  "description": "",
+  "main": "homomorphic-encryption.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheForwarding/Homomorphic-Encryption.git"
+  },
+  "author": "TheForwarding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheForwarding/Homomorphic-Encryption/issues"
+  },
+  "homepage": "https://github.com/TheForwarding/Homomorphic-Encryption#readme"
+}
