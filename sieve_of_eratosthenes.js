@@ -2,7 +2,7 @@
     *******  SIEVES OF ERATOSTHENES  *********
     Generating random prime number in a scope.
 
-    This source code created by Ookami.
+    This source code created by SeemsChill.
     github: https://github.com/TheForwarding/Homomorphic-Encryption.git
 */
 
